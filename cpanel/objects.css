@@ -1,0 +1,37 @@
+@charset "utf-8";
+/*------------BODY------------*/
+.buttonblue {background:url(images/style/buttonbg.png) repeat-x #2f5fa7; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:auto; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #003e9a; padding:7px 7px 7px 7px;}
+.buttonblue:hover {background:url(images/style/buttonbg.png) repeat-x #27508e;}
+
+.buttongreen {background:url(images/style/buttonbg.png) repeat-x #25ad22; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:0px 20px 0px 20px; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #1e751c; padding:7px 7px 7px 7px;}
+.buttongreen:hover {background:url(images/style/buttonbg.png) repeat-x #20981d;}
+
+.buttonred {background:url(images/style/buttonbg.png) repeat-x #d82626; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:0px 20px 0px 20px; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #751c1c; padding:7px 7px 7px 7px;}
+.buttonred:hover {background:url(images/style/buttonbg.png) repeat-x #b11f1f;}
+
+.buttonblack {background:url(images/style/buttonbg.png) repeat-x #414141; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:0px 20px 0px 20px; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #292929; padding:7px 7px 7px 7px;}
+.buttonblack:hover {background:url(images/style/buttonbg.png) repeat-x #313131;}
+
+.buttongrey {background:url(images/style/buttonbg.png) repeat-x #a1a1a1; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:0px 20px 0px 20px; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #969696; padding:7px 7px 7px 7px;}
+.buttongrey:hover {background:url(images/style/buttonbg.png) repeat-x #969595;}
+
+.buttonorange {background:url(images/style/buttonbg.png) repeat-x #d2821b; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:0px 20px 0px 20px; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #955503; padding:7px 7px 7px 7px;}
+.buttonorange:hover {background:url(images/style/buttonbg.png) repeat-x #b96e0c;}
+
+.buttonpurple {background:url(images/style/buttonbg.png) repeat-x #c617e6; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:0px 20px 0px 20px; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #9004a9; padding:7px 7px 7px 7px;}
+.buttonpurple:hover {background:url(images/style/buttonbg.png) repeat-x #a712c2;}
+
+.buttoncyan {background:url(images/style/buttonbg.png) repeat-x #17bcae; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:0px 20px 0px 20px; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #00a295; padding:7px 7px 7px 7px;}
+.buttoncyan:hover {background:url(images/style/buttonbg.png) repeat-x #17a99d;}
+
+.buttonyellow {background:url(images/style/buttonbg.png) repeat-x #c5d01b; color:#FFFFFF; text-shadow:#000000 1px 1px; border-radius:5px; margin:0px 20px 0px 20px; font-weight:bold; font-size:14px; border:none; cursor:pointer; border:1px solid #a0aa07; padding:7px 7px 7px 7px;}
+.buttonyellow:hover {background:url(images/style/buttonbg.png) repeat-x #b3bd18;}
+
+
+
+
+.errormessage {margin:20px 10px 10px 10px; padding:5px 5px 5px 30px; border:1px solid rgb(235, 177, 177); border-radius:5px; font-size:14px; line-height:14px; background:url(images/style/icons/error.png) no-repeat scroll left center rgb(255, 214, 214); color:#000000; text-align:left;}
+
+.successmessage {margin:20px 10px 10px 10px; padding:5px 5px 5px 30px; border:1px solid rgb(179, 220, 124); border-radius:5px; font-size:14px; line-height:14px; background:url(images/style/icons/success.png) no-repeat scroll left center  rgb(232, 255, 202); color:#000000; text-align:left;}
+
+.infomessage {margin:20px 10px 10px 10px; padding:5px 5px 5px 30px; border:1px solid rgb(175, 219, 238); border-radius:5px; font-size:14px; line-height:14px; background:url(images/style/icons/info.png) no-repeat scroll left center  rgb(228, 245, 253); color:#000000; text-align:left;}

@@ -2,7 +2,7 @@
 $iusername = $_SESSION['username'];
 if (isset($_SESSION['username']))
 {
-	echo "<div class='messageerror'>Немате пристап до оваа страница бидеќи веќе сте логирани со $iusername!</div>";
+	echo "<div class='messageerror'>Немате пристап до оваа страница бидејќи веќе сте логирани со $iusername!</div>";
 	include ("profile.php");
 	echo $redirecttoprofile;
 }
